@@ -1,0 +1,35 @@
+article{
+    background-color: rgb(133, 240, 240);
+    
+}
+
+header{
+    background-color: rgb(240, 207, 229);
+    style="text-align:Left;"
+    
+          
+}
+NAV{
+    background-color: aquamarine;
+}
+SECTION{
+    background-color: brown;
+}
+FOOTER{
+    background-color: blueviolet;
+}
+  
+image {
+    position: absolute;
+    left: 20px;
+    top: 10px;
+  }
+  #text {
+    z-index: 100;
+    position: absolute;
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    left: 150px;
+    top: 0px;
+  }
